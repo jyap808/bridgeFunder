@@ -1,4 +1,4 @@
-## Bridge funder
+## Bridge Funder
 
 Listens for Bridge In events.
 
@@ -16,6 +16,8 @@ Successfully created new keypair.
 Address:     0xAA15c5cD2005A4534b8593a3e575d8539b9A17dc
 Private key: 0x1234
 ```
+
+Ubiq Bridge Funder address: [0xAA15c5cD2005A4534b8593a3e575d8539b9A17dc](https://ubiqscan.io/address/0xaa15c5cd2005a4534b8593a3e575d8539b9a17dc)
 
 ### Set up Environment variables
 
